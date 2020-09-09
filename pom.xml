@@ -14,7 +14,7 @@
     <dependency>
       <groupId>org.yaml</groupId>
       <artifactId>snakeyaml</artifactId>
-      <version>1.13</version>
+      <version>1.26</version>
     </dependency>
     <dependency>
       <groupId>commons-cli</groupId>
@@ -160,7 +160,7 @@
                 </executions>
                 <configuration>
                     <license>https://newrelic.com/terms (also see LICENSE installed with this package)</license>
-                    <packager>New Relic Infrastructure Team &lt;infrastructure-eng@newrelic.com&gt;</packager>
+                    <packager>New Relic Infrastructure Team &lt;infrastructure-eng@newrelic.com></packager>
                     <group>Application/System</group>
                     <sourceEncoding>utf-8</sourceEncoding>
                     <targetOS>x86_64-linux</targetOS>
